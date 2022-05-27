@@ -14,7 +14,30 @@
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
  
+--
+--
+--
 
-  ![Animação de cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+<h1 align="center">📁 Mais informações sobre mim.</h1>
+<h3 align="center">Sou um Progamador do Brasil🇧🇷</h3>
+
+
+- 🔭 Trabalho com **Bots Discord**
+
+- 🌱 Estou estudando **DBD**
+
+- 👯 Eu colaboro o projeto **Bot Jean**
+
+- 🤝 Sou parceiro do projeto **Geek Space**
+
+- 💬 Sou muito **Feliz**
+
+- 📫 Contato **henriqueadm.ch@gmail.com**
+
+- ⚡ Reação **Me acho engraçado**
+
+• Este sou eu🤪😊
+
+![Animação de cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
