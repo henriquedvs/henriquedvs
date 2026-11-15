@@ -23,17 +23,12 @@ I enjoy transforming ideas into projects, exploring new technologies and creatin
 
 ## Featured Projects
 
-### Geek Inc.
-A conceptual technology conglomerate focused on digital services, cloud computing, artificial intelligence and innovation.
-
 ### Óculos SANTOS
 A conceptual business project in the optical industry, featuring brand development and a digital platform.
 
 ### Pixel Football
 A football game project featuring pixel art, player career mode and interactive gameplay.
 
-### Indepê Futebol Clube
-A conceptual football club project focused on club identity, management and digital presence.
 
 ## Interests
 
@@ -47,12 +42,8 @@ A conceptual football club project focused on club identity, management and digi
 ## Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/carlos-henrique-souza-santos-01395b44a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     LinkedIn
-  </a>
-  |
-  <a href="YOUR_PORTFOLIO_URL">
-    Portfolio
   </a>
 </p>
 
