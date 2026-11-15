@@ -23,6 +23,9 @@ I enjoy transforming ideas into projects, exploring new technologies and creatin
 
 ## Featured Projects
 
+### Fake ou Fato
+A digital project focused on information verification, critical thinking and identifying misinformation. Designed to help users distinguish facts from false or misleading information.
+
 ### Óculos SANTOS
 A conceptual business project in the optical industry, featuring brand development and a digital platform.
 
@@ -38,6 +41,9 @@ A football game project featuring pixel art, player career mode and interactive 
 - Technology & Innovation
 - UI/UX Design
 - Digital Business
+- Information Verification
+- Media Literacy
+- Digital Journalism
 
 ## Connect With Me
 
