@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Henrique 👋</h1>
+<h1 align="center"> Hi, I'm Henrique 👋 </h1>
 
 <h3 align="center">
   Technology Enthusiast | Aspiring Developer & Entrepreneur
