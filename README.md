@@ -1,43 +1,63 @@
-## Oiii eu sou o HenriqueDvs, criador de conteúdo de programação e tecnologia!
-<div align="center">
-  <a href="https://github.com/henriquedvs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  
-  ##
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cf.shopee.co.id/file/b788606508d3f3bf222e177bbd1d77f3">
-</div>
-<div>
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
- 
---
---
---
+<h1 align="center">Hi, I'm Henrique 👋</h1>
 
-</div>
-<h1 align="center">📁 Mais informações sobre mim.</h1>
-<h3 align="center">Sou um Progamador do Brasil🇧🇷</h3>
+<h3 align="center">
+  Technology Enthusiast | Aspiring Developer & Entrepreneur
+</h3>
 
+<p align="center">
+  Building ideas into reality through technology, creativity and innovation.
+</p>
 
-- 🔭 Trabalho com **Bots Discord**
+---
 
-- 🌱 Estou estudando **DBD**
+## About Me
 
-- 👯 Eu colaboro o projeto **Bot Jean**
+I'm a Brazilian student passionate about technology, business, innovation and software development.
 
-- 🤝 Sou parceiro do projeto **Geek Space**
+I enjoy transforming ideas into projects, exploring new technologies and creating digital experiences.
 
-- 💬 Sou muito **Feliz**
+- Exploring software development and emerging technologies.
+- Building independent projects and conceptual businesses.
+- Interested in artificial intelligence, digital products and entrepreneurship.
+- Always learning, experimenting and improving.
 
-- 📫 Contato **henriqueadm.ch@gmail.com**
+## Featured Projects
 
-- ⚡ Reação **Me acho engraçado**
+### Geek Inc.
+A conceptual technology conglomerate focused on digital services, cloud computing, artificial intelligence and innovation.
 
-• Este sou eu🤪😊
+### Óculos SANTOS
+A conceptual business project in the optical industry, featuring brand development and a digital platform.
 
-![Animação de cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+### Pixel Football
+A football game project featuring pixel art, player career mode and interactive gameplay.
+
+### Indepê Futebol Clube
+A conceptual football club project focused on club identity, management and digital presence.
+
+## Interests
+
+- Software Development
+- Artificial Intelligence
+- Entrepreneurship
+- Technology & Innovation
+- UI/UX Design
+- Digital Business
+
+## Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    LinkedIn
+  </a>
+  |
+  <a href="YOUR_PORTFOLIO_URL">
+    Portfolio
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building today what I imagine for tomorrow.</i>
+</p>
